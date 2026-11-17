@@ -1,0 +1,223 @@
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.AssemblyReference.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe.config
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\BorrowIn.pdb
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Shared.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\bin\Debug\stdole.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.AdminPage.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookDialogForm.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookLists.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookManager.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookRequest.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BorrowForm.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Cover.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ForgotPassword.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.LibrarianPage.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ReturnManager.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Signup.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.History.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Home.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Login_Form.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Properties.Resources.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ViewProcurement.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.GenerateResource.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.CoreCompileInputs.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.Up2Date
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.pdb
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #23\BorrowIn #23\BorrowIn #23\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe.config
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.AssemblyReference.cache
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe.config
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.AdminPage.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookDialogForm.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookLists.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookManager.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookRequest.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BorrowForm.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Cover.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ForgotPassword.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.LibrarianPage.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ReturnManager.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Signup.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.History.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Home.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Login_Form.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Properties.Resources.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ViewProcurement.resources
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.GenerateResource.cache
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.CoreCompileInputs.cache
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.pdb
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe.config
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\BorrowIn.pdb
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\stdole.dll
+C:\Users\fjcly\OneDrive\Documents\felice coolyeah\Vispro\BorrowIn\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.Up2Date
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.AssemblyReference.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.pdb
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe.config
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\BorrowIn.pdb
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Shared.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\stdole.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.AdminPage.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookDialogForm.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookLists.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookManager.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookRequest.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BorrowForm.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Cover.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ForgotPassword.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.LibrarianPage.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ReturnManager.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Signup.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.History.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Home.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Login_Form.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Properties.Resources.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ViewProcurement.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.GenerateResource.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.CoreCompileInputs.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.Up2Date
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.resx
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.cs
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn #24\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.Designer.cs
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.AssemblyReference.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.pdb
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.resx
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.cs
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.Designer.cs
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe.config
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\BorrowIn.pdb
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Shared.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\stdole.dll
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.AdminPage.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookDialogForm.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookLists.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookManager.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookRequest.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BorrowForm.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Cover.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ForgotPassword.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.LibrarianPage.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ReturnManager.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Signup.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.History.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Home.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Login_Form.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Properties.Resources.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ViewProcurement.resources
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.GenerateResource.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.CoreCompileInputs.cache
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.Up2Date
+D:\ALL REGARDING COLLEGE\2025\4TH SEMESTER\UAS\VISUAL PROGRAMMING\LAB\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe.config
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.AssemblyReference.cache
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe.config
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.exe
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.pdb
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.resx
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.cs
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\Views\Admin\ReturnManager.Designer.cs
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe.config
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\BorrowIn.exe
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\BorrowIn.pdb
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\bin\Debug\stdole.dll
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.AdminPage.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookDialogForm.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookLists.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookManager.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BookRequest.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.BorrowForm.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Cover.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ForgotPassword.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.LibrarianPage.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ReturnManager.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Signup.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.History.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Home.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Login_Form.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.Properties.Resources.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.ViewProcurement.resources
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.GenerateResource.cache
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.CoreCompileInputs.cache
+C:\Users\wibik\OneDrive\Documents\Iso_lib\#31 BorrowIn (UI-UX Fixes)\#28 BorrowIn (UI-UX Fixes)\BorrowIn\BorrowIn\obj\Debug\BorrowIn.csproj.Up2Date

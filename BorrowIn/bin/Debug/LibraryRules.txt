@@ -1,0 +1,13 @@
+ATURAN & KETENTUAN PERPUSTAKAAN BORROWIN:
+1. Peminjam harus memiliki akun yang valid.
+2. Maksimal peminjaman adalah 3 buku dalam satu waktu.
+3. Durasi peminjaman maksimal adalah 14 hari
+4. keterlambatan pengembalian akan dikenakan denda 
+5. Dilarang merusak atau mencoret-coret buku yang dipinjam.
+
+BORROWIN LIBRARY RULES & CONDITIONS:
+1. Borrowers must have a valid account.
+2. A maximum of 3 books can be borrowed at a time.
+3. The maximum loan period is 14 days.
+4. Late returns will incur a fine.
+5. Do not damage or deface borrowed books.

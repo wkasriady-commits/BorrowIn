@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|c:\\users\\wibik\\onedrive\\documents\\iso_lib\\#31 borrowin (ui-ux fixes)\\#28 borrowin (ui-ux fixes)\\borrowin\\borrowin\\views\\admin\\viewprocurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\viewprocurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|c:\\users\\wibik\\onedrive\\documents\\iso_lib\\#31 borrowin (ui-ux fixes)\\#28 borrowin (ui-ux fixes)\\borrowin\\borrowin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|c:\\users\\wibik\\onedrive\\documents\\iso_lib\\#31 borrowin (ui-ux fixes)\\#28 borrowin (ui-ux fixes)\\borrowin\\borrowin\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\core\\dbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\core\\dbclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|c:\\users\\wibik\\onedrive\\documents\\iso_lib\\#31 borrowin (ui-ux fixes)\\#28 borrowin (ui-ux fixes)\\borrowin\\borrowin\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|c:\\users\\wibik\\onedrive\\documents\\iso_lib\\#31 borrowin (ui-ux fixes)\\#28 borrowin (ui-ux fixes)\\borrowin\\borrowin\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\viewprocurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\viewprocurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\librarianpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\librarianpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|c:\\users\\wibik\\onedrive\\documents\\iso_lib\\#31 borrowin (ui-ux fixes)\\#28 borrowin (ui-ux fixes)\\borrowin\\borrowin\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\user\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\user\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\user\\booklists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\user\\booklists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\user\\booklists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\user\\booklists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|c:\\users\\wibik\\onedrive\\documents\\iso_lib\\#31 borrowin (ui-ux fixes)\\#28 borrowin (ui-ux fixes)\\borrowin\\borrowin\\views\\admin\\librarianpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\librarianpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\reportviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\reportviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\user\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\user\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\core\\menunavigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\core\\menunavigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\returnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\returnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\returnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\returnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\bookinventoryreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\bookinventoryreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\borrowin\\views\\admin\\bookdialogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D42E85B-C211-4FD1-B646-1BBA760C759D}|BorrowIn\\BorrowIn.csproj|solutionrelative:borrowin\\views\\admin\\bookdialogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\bin\\Debug\\Views\\Admin\\ReturnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BorrowIn\\bin\\Debug\\Views\\Admin\\ReturnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\User\\History.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\User\\History.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\User\\History.cs",
+              "RelativeToolTip": "BorrowIn\\Views\\User\\History.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAnwL8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:49:01.669Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookLists.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\User\\BookLists.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\User\\BookLists.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\User\\BookLists.cs",
+              "RelativeToolTip": "BorrowIn\\Views\\User\\BookLists.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAEwBkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:50:29.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\BookManager.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\BookManager.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\BookManager.cs",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\BookManager.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwH4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:26:41.511Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibrarianPage.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\LibrarianPage.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\LibrarianPage.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\LibrarianPage.cs",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\LibrarianPage.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAiwM4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:50:56.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewProcurement.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ViewProcurement.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\ViewProcurement.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ViewProcurement.cs",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\ViewProcurement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:02:09.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\User.cs",
+              "RelativeToolTip": "BorrowIn\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:14:57.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\Admin.cs",
+              "RelativeToolTip": "BorrowIn\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:14:59.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\Book.cs",
+              "RelativeToolTip": "BorrowIn\\Models\\Book.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:23:05.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbClient.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Core\\dbClient.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Core\\dbClient.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Core\\dbClient.cs",
+              "RelativeToolTip": "BorrowIn\\Core\\dbClient.cs",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAAAEkCAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:22:23.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\Role.cs",
+              "RelativeToolTip": "BorrowIn\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:14:52.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewProcurement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ViewProcurement.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\ViewProcurement.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ViewProcurement.cs [Design]",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\ViewProcurement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:24:00.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Models\\Librarian.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Models\\Librarian.cs",
+              "RelativeToolTip": "BorrowIn\\Models\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T11:15:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookLists.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\User\\BookLists.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\User\\BookLists.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\User\\BookLists.cs [Design]",
+              "RelativeToolTip": "BorrowIn\\Views\\User\\BookLists.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:50:26.395Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\AdminPage.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\AdminPage.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\AdminPage.cs [Design]",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\AdminPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:14:13.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibrarianPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\LibrarianPage.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\LibrarianPage.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\LibrarianPage.cs [Design]",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\LibrarianPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:36:00.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReturnManager.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ReturnManager.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\ReturnManager.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ReturnManager.cs",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\ReturnManager.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAlwCsBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T07:13:48.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookInventoryReport.rpt",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\BookInventoryReport.rpt",
+              "RelativeDocumentMoniker": "BorrowIn\\BookInventoryReport.rpt",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\BookInventoryReport.rpt",
+              "RelativeToolTip": "BorrowIn\\BookInventoryReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-06-11T07:14:13.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminPage.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\AdminPage.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\AdminPage.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\AdminPage.cs",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\AdminPage.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAlwPMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:17:41.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReturnManager.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\bin\\Debug\\Views\\Admin\\ReturnManager.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\bin\\Debug\\Views\\Admin\\ReturnManager.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\bin\\Debug\\Views\\Admin\\ReturnManager.cs",
+              "RelativeToolTip": "BorrowIn\\bin\\Debug\\Views\\Admin\\ReturnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:18:21.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\User\\History.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\User\\History.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\User\\History.cs [Design]",
+              "RelativeToolTip": "BorrowIn\\Views\\User\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:48:59.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuNavigationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Core\\MenuNavigationHelper.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Core\\MenuNavigationHelper.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Core\\MenuNavigationHelper.cs",
+              "RelativeToolTip": "BorrowIn\\Core\\MenuNavigationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T04:22:32.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReturnManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ReturnManager.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\ReturnManager.cs",
+              "ToolTip": "D:\\ALL REGARDING COLLEGE\\2025\\4TH SEMESTER\\UAS\\VISUAL PROGRAMMING\\LAB\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ReturnManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:20:57.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookRequest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\BookRequest.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\BookRequest.cs",
+              "ToolTip": "D:\\ALL REGARDING COLLEGE\\2025\\4TH SEMESTER\\UAS\\VISUAL PROGRAMMING\\LAB\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\BookRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:11:47.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportViewerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ReportViewerForm.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\ReportViewerForm.cs",
+              "ToolTip": "D:\\ALL REGARDING COLLEGE\\2025\\4TH SEMESTER\\UAS\\VISUAL PROGRAMMING\\LAB\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\ReportViewerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:13:39.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookDialogForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\BookDialogForm.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\BookDialogForm.cs",
+              "ToolTip": "D:\\ALL REGARDING COLLEGE\\2025\\4TH SEMESTER\\UAS\\VISUAL PROGRAMMING\\LAB\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\BookDialogForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:13:32.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\BookManager.cs",
+              "RelativeDocumentMoniker": "BorrowIn\\Views\\Admin\\BookManager.cs",
+              "ToolTip": "C:\\Users\\wibik\\OneDrive\\Documents\\Iso_lib\\#31 BorrowIn (UI-UX Fixes)\\#28 BorrowIn (UI-UX Fixes)\\BorrowIn\\BorrowIn\\Views\\Admin\\BookManager.cs [Design]",
+              "RelativeToolTip": "BorrowIn\\Views\\Admin\\BookManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:12:23.785Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
